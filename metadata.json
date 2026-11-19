@@ -1,0 +1,8 @@
+{
+  "name": "Ashik Creative Studio",
+  "description": "Free Bulk YouTube to MP3 & MP4 Converter and Creative Media Studio by Md Ashik Ahmed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
